@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e82d9d-c05f-414d-af7c-b7b1df0b9c94" name="Default Changelist" comment="" />
-    <list id="0511eb6f-cf0c-4969-a7a3-7743f0380045" name="Revert &quot;blog backup&quot;" comment="Revert &quot;blog backup&quot;&#10;&#10;This reverts commit 5cb1002e">
-      <change afterPath="$PROJECT_DIR$/themes/Chic/source/fonts/lanting/lanting.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/Chic/source/fonts/lanting/lanting.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/Chic/source/fonts/lanting/lanting.otf" afterDir="false" />
+    <list default="true" id="f3e82d9d-c05f-414d-af7c-b7b1df0b9c94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.deploy_git/2020/10/02/White-Jotter/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/2020/10/02/White-Jotter/index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/2020/10/02/White-Jotter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/2020/10/02/White-Jotter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/2020/10/03/Add-gitalk-to-your-blog-to-support-comments/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/2020/10/03/Add-gitalk-to-your-blog-to-support-comments/index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/2020/10/03/Add-gitalk-to-your-blog-to-support-comments/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/2020/10/03/Add-gitalk-to-your-blog-to-support-comments/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/CNAME 3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/README 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/about/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2020/10/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2020/10/index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2020/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2020/10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2020/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2020/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/assets/css/APlayer.min 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/assets/css/APlayer.min 5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/assets/js/APlayer.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/assets/js/APlayer.min 5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/assets/js/Meting.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/assets/js/Meting.min 5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/Hexo/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/Hexo/index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/Hexo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/Hexo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/Personal-Website/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/Personal-Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/Personal-Website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/category/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/category/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/base 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/custom 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/css/custom 3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/font 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/layout 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/css/layout 3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/media 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/normalize 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/style 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/variable 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/favicon 3.ico" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/favicon 2.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/demo 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/demo_index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/demo_index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.eot" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.json" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 2.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/fonts/iconfont/iconfont 5.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/lanting/lanting 2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/fonts/lanting/lanting 2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/image/avatar 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/image/avatar1 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/index 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/js/mathjax2.7.5 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/js/script 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/js/tocbot.min 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tag/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/CMS/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/CMS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/CMS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/Hexo/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/Hexo/index 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/Hexo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/Hexo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-brands-400 2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-brands-400 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-brands-400 2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-brands-400 2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-brands-400 2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-regular-400 2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-regular-400 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-regular-400 2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-regular-400 2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-regular-400 2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-solid-900 2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-solid-900 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-solid-900 2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-solid-900 2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/webfonts/fa-solid-900 2.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Chic/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Chic/_config.yml" afterDir="false" />
+    </list>
+    <list id="0511eb6f-cf0c-4969-a7a3-7743f0380045" name="Revert &quot;blog backup&quot;" comment="Revert &quot;blog backup&quot;&#10;&#10;This reverts commit 5cb1002e">
       <change beforePath="$PROJECT_DIR$/themes/Chic/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Chic/layout/_partial/footer.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Chic/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Chic/layout/_partial/head.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Chic/layout/_plugins/gitalk.ejs" beforeDir="false" />
@@ -32,11 +102,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-928">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="287">
+              <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -67,11 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_partial/head.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -79,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/Chic/layout/post.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="56" selection-start-column="56" selection-end-column="56" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -88,8 +158,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/Chic/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            <state relative-caret-position="107">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
@@ -180,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,14 +258,25 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="Chic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -239,7 +321,8 @@
       <workItem from="1601260571357" duration="625000" />
       <workItem from="1601345459107" duration="2972000" />
       <workItem from="1601666759024" duration="27173000" />
-      <workItem from="1601857562985" duration="962000" />
+      <workItem from="1601857562985" duration="1155000" />
+      <workItem from="1601859431025" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="blog backup">
       <created>1601856390871</created>
@@ -252,7 +335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33618000" />
+    <option name="totallyTimeSpent" value="34116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,12 +349,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Repositories" weight="0.32980973" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info id="Repositories" order="4" weight="0.32980973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -283,6 +365,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.28674698" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49964765" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,9 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/source/image/avatar1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Chic/source/image/avatar1.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/Chic/source/image/avatar.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -520,16 +601,7 @@
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_plugins/site-visitor.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <element signature="e#252#258#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_plugins/site-visitor.ejs" />
     <entry file="file://$PROJECT_DIR$/themes/Chic/source/css/custom.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -544,6 +616,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_plugins/gitalk.ejs" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -554,36 +637,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_plugins/gitalk.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/Chic/layout/index.ejs">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/layout.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/post.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" selection-start-column="56" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Add-gitalk-to-your-blog-to-support-comments.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -605,20 +660,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_partial/head.ejs">
+    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/post.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/layout.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-928">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Chic/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Chic/layout/_partial/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
         </state>
       </provider>
     </entry>
